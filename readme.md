@@ -6,7 +6,7 @@ Crunching the Numbers: A Comprehensive Data Analysis of the Indian Startup Ecosy
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP# or P# | A Comprehensive Data Analysis of the Indian Startup Ecosystem from 2018-2021. |  [Best article of the world](/) | [Best app of the world](/) |
+| LP# or P# | A Comprehensive Data Analysis of the Indian Startup Ecosystem from 2018-2021. |  https://medium.com/@david.biney/an-in-depth-study-of-the-indian-startup-ecosystem-from-2018-to-2021-470daba366ca(/) | [https://github.com/gyesibiney/CA-Projects-submission-template-repo(/) |
 
 ## Project Description
 ...Business Understanding
